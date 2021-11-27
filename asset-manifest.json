@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/bootcamp-react-shop/static/css/main.47ba01c4.chunk.css",
+    "main.js": "/github.io/bootcamp-react-shop/static/js/main.f0896ba7.chunk.js",
+    "main.js.map": "/github.io/bootcamp-react-shop/static/js/main.f0896ba7.chunk.js.map",
+    "runtime-main.js": "/github.io/bootcamp-react-shop/static/js/runtime-main.fb0cf3e1.js",
+    "runtime-main.js.map": "/github.io/bootcamp-react-shop/static/js/runtime-main.fb0cf3e1.js.map",
+    "static/js/2.0de4bfac.chunk.js": "/github.io/bootcamp-react-shop/static/js/2.0de4bfac.chunk.js",
+    "static/js/2.0de4bfac.chunk.js.map": "/github.io/bootcamp-react-shop/static/js/2.0de4bfac.chunk.js.map",
+    "index.html": "/github.io/bootcamp-react-shop/index.html",
+    "static/css/main.47ba01c4.chunk.css.map": "/github.io/bootcamp-react-shop/static/css/main.47ba01c4.chunk.css.map",
+    "static/js/2.0de4bfac.chunk.js.LICENSE.txt": "/github.io/bootcamp-react-shop/static/js/2.0de4bfac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb0cf3e1.js",
+    "static/js/2.0de4bfac.chunk.js",
+    "static/css/main.47ba01c4.chunk.css",
+    "static/js/main.f0896ba7.chunk.js"
+  ]
+}
